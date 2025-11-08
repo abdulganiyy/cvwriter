@@ -1,0 +1,19 @@
+{
+  "name": "cvwrite-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "ollama": "^0.6.2",
+    "pdf-parse": "^2.4.5"
+  }
+}
